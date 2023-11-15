@@ -1,8 +1,8 @@
 <?php
 
-namespace Alura\Leilao\Service;
+namespace App\Leilao\Service;
 
-use Alura\Leilao\Model\{Lance, Leilao};
+use App\Leilao\Model\{Lance, Leilao};
 
 class Avaliador
 {

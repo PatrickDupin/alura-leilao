@@ -1,10 +1,10 @@
 <?php
 
-namespace Alura\Leilao\Tests\Model;
+namespace App\Leilao\Tests\Model;
 
-use Alura\Leilao\Model\Lance;
-use Alura\Leilao\Model\Leilao;
-use Alura\Leilao\Model\Usuario;
+use App\Leilao\Model\Lance;
+use App\Leilao\Model\Leilao;
+use App\Leilao\Model\Usuario;
 use PHPUnit\Framework\TestCase;
 
 class LeilaoTest extends TestCase

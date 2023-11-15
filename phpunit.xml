@@ -10,6 +10,6 @@
     </testsuites>
     <logging>
         <log type="testdox-text" target="testes-executados.txt"/>
-        <!-- <log type="testdox-html" target="testes-executados.html"/> -->
+        <log type="testdox-html" target="testes-executados.html"/>
     </logging>
 </phpunit>

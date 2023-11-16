@@ -1,9 +1,9 @@
 <?php
 
-use Alura\Leilao\Model\Lance;
-use Alura\Leilao\Model\Leilao;
-use Alura\Leilao\Model\Usuario;
-use Alura\Leilao\Service\Avaliador;
+use App\Leilao\Model\Lance;
+use App\Leilao\Model\Leilao;
+use App\Leilao\Model\Usuario;
+use App\Leilao\Service\Avaliador;
 
 require 'vendor/autoload.php';
 
